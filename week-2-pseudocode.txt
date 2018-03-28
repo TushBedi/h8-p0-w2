@@ -1,0 +1,51 @@
+(Q1.) Newton's Second Law
+
+Algorithm:
+----------
+1. Create variable name resultant-force
+2. Create variable named 'm' = 600
+3. Create variable named 'a' = 2
+4. Calculate resultant-force by multiplying m * a
+5. Display the result
+
+Pseudocode:
+-----------
+1. READ resultant-force
+2. READ m=600
+3. Read a=2
+4. COMPUTE resultant-force = m*a
+5. DISPLAY resultant force
+
+
+(Q2.) Leap Year
+
+Algorithm:
+----------
+1. List out years starting from 1582
+2. Divide year / 4. If remainder = 0, go to step 3, else go to step 6
+3. Divide year / 100. If remainder = 0 go to step 4, else go to step 5
+4. Divide year / 400. If remainder = 0 go to step 5, else go to step 6
+5. Print "This is a leap year (366 days)"
+6. Print "This is a normal year (365 days)"
+
+
+(Q3.) Laundry Day
+
+Algorithm:
+----------
+1. Create variable counter
+2. Set counter = 0
+3. Set counter = counter +1 
+4. If counter is < 20, repeat step 3
+
+
+(Q4.)
+
+Algorithm:
+----------
+1. Create variable student starting with 0 students
+2. As long as students < 40, repeat step 3
+3. Check each student & if student has long nails, show "punish the student", else show "praise the student"
+
+
+
