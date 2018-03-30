@@ -35,8 +35,9 @@ Algorithm:
 ----------
 1. Create variable counter
 2. Set counter = 0
-3. Set counter = counter +1 
-4. If counter is < 20, repeat step 3
+3. If counter is < 20, go to step 4, else go to step 5
+4. Set counter = counter + 1, repeat step 3
+5. Display "Washing Machine is on"
 
 
 (Q4.)
