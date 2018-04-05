@@ -1,0 +1,32 @@
+1. Menysusn Barisan Bintang:
+-----------------------------
+
+var rows = 5;
+var counter;
+for (var counter = 1; counter <= rows; counter ++) {
+  console.log('*');
+}
+
+------------------------------------------------------------------------------------------------
+
+
+2. Menus Barisan Bintang Dengan Nested Looping:
+-----------------------------------------------
+
+var rows = 5;
+var counter;
+for (var counter = 1; counter <= rows; counter ++) {
+  console.log('*****');
+}
+
+------------------------------------------------------------------------------------------------
+
+
+3. Menyusun Barisan Tangga Bintang Dengan Nested Looping:
+---------------------------------------------------------
+
+var rows = '';
+for (var i = 0; i < 5; i++) {
+  rows += '*';
+  console.log(rows);
+} 
