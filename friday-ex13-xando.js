@@ -1,9 +1,9 @@
 //Logic Challenge - X and O
 
 function xo(str) {
-  countX = 0;
-   countO = 0;
-   for(i =str.length; i >= 0; i-- ){
+  var countX = 0;
+  var countO = 0;
+   for(var i =str.length; i >= 0; i-- ){
      var store = str[i];
      if (store === 'x'){
        countX ++;
